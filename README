@@ -2,6 +2,7 @@ This personal project group a set of examples of Design Patterns implementations
 
 Strategy
 Factory
+Decorator
 
 To run this project simply run the command associated to the desired pattern
 

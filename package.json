@@ -5,6 +5,7 @@
   "scripts": {
     "start:strategy": "ts-node src/Strategy/ProductPrices/index.ts",
     "start:factory": "ts-node src/Factory/Enemies/index.ts",
+    "start:decorator": "ts-node src/Decorator/Weapons/index.ts",
     "start": "ts-node src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
